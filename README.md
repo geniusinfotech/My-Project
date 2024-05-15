@@ -1,4 +1,4 @@
 # My-Project
 My First Git Project
 <br>
-Author: Satyam Navdiya (Genius Infotech)
+Author: Satyam Navdiya (GIT)
